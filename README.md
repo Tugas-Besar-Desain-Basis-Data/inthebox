@@ -2,41 +2,41 @@
 
 	Ini merupakan tugas Mata Kuliah Desain Basis Data - Telkom University dimana membuat aplikasi berbasis website dengan tema bebas. Website In The Box adalah sebuah website yang berfokus pada bidang E-Commerce. Website ini masuk kedalam jenis E-Commerce Business to Customer (B2C)  karena didalam website ini, user dapat memilih ingin mendaftar sebagai penjual atau pembeli. 
 	
-#Fitur Website E-Commerce In The Box
+# Fitur Website E-Commerce In The Box
 
-	Website ini dibangun dengan memuat sebanyak 14 tabel dan juga fitur yang disesuaikan dengan kebutuhan. Fitur tersebut yaitu sebagai berikut :
+Website ini dibangun dengan memuat sebanyak 14 tabel dan juga fitur yang disesuaikan dengan kebutuhan. Fitur tersebut yaitu sebagai berikut :
 
-Admin
-------
-1. Menu Daftar List User
-2. Menu Daftar List Penjual
-3. Menu Verifikasi Pembayaran
-4. Menu Request Penjual
+	Admin
+	------
+	1. Menu Daftar List User
+	2. Menu Daftar List Penjual
+	3. Menu Verifikasi Pembayaran
+	4. Menu Request Penjual
 
-Penjual
---------
-1. Sign Up dan Login
-2. Menu Forum
-3. Menu Tambah Edit dan Hapus Barang
-4. Menu Chat Dari Customer 
-5. Menu Edit Profile
-6. Menu Edit Toko
+	Penjual
+	--------
+	1. Sign Up dan Login
+	2. Menu Forum
+	3. Menu Tambah Edit dan Hapus Barang
+	4. Menu Chat Dari Customer 
+	5. Menu Edit Profile
+	6. Menu Edit Toko
 
-Customer
----------
-1. Sign Up dan Login
-2. Menu Forum
-3. Menu Ask To Seller
-4. Menu Wish List
-5. Menu Chart
-6. Menu Checkout
-7. Menu Processing
-8. Menu Edit Profile
+	Customer
+	---------
+	1. Sign Up dan Login
+	2. Menu Forum
+	3. Menu Ask To Seller
+	4. Menu Wish List
+	5. Menu Chart
+	6. Menu Checkout
+	7. Menu Processing
+	8. Menu Edit Profile
 
-Guest
------------
-1. Menu Halaman Utama
-2. Menu Tampilan Barang
+	Guest
+	-----------
+	1. Menu Halaman Utama
+	2. Menu Tampilan Barang
 
 
 ##Alur Menggunakan Website In The Box
