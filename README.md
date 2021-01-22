@@ -2,7 +2,7 @@
 
 	Ini merupakan tugas Mata Kuliah Desain Basis Data - Telkom University dimana membuat aplikasi berbasis website dengan tema bebas. Website In The Box adalah sebuah website yang berfokus pada bidang E-Commerce. Website ini masuk kedalam jenis E-Commerce Business to Customer (B2C)  karena didalam website ini, user dapat memilih ingin mendaftar sebagai penjual atau pembeli. 
 	
-##Fitur Website E-Commerce In The Box
+#Fitur Website E-Commerce In The Box
 
 	Website ini dibangun dengan memuat sebanyak 14 tabel dan juga fitur yang disesuaikan dengan kebutuhan. Fitur tersebut yaitu sebagai berikut :
 
